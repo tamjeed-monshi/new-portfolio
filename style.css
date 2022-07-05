@@ -1,0 +1,46 @@
+body {
+    background-color: #212F3C;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    margin: 0%;
+
+}
+
+h1 {
+    color: #E74C3C;
+    font-size: 60px;
+}
+
+#tam {
+    color: white;
+}
+
+.first-container {
+    display: flex;
+}
+
+.half {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half img {
+    width: 50%;
+}
+
+.button {
+
+    text-decoration: none;
+    padding: 10px 30px;
+    border: 1px solid tomato;
+    border-radius: 25px;
+    color: tomato;
+
+
+
+}
+
+.first-container {
+    background-image: url(./images/shapes/exp-bg.png);
+    background-repeat: no-repeat;
+}
